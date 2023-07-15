@@ -48,7 +48,7 @@ The dates have been converted from the `YYYY/MM/DD` format to the `MM/DD/YYYY` f
 ## Requirements
 Make sure you have Python 3.6 or higher installed on your system.
 
-## 使用方法
+## Usage
 1. Clone or download the repository to a directory on your computer.
 2. Modify the path in `start.command (Mac)` or `start.bat (Win)` to point to the directory where you store the `date-reformatter.py` script.
 3. Save the text to be processed as an `input.txt` file and place it in the same directory as the script.
